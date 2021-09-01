@@ -9,3 +9,4 @@
 ## Links Learning the Topic
 - [Leaning 1](https://www.youtube.com/watch?v=hn7W_C2nbwE)
 - [Learning 2](https://www.youtube.com/watch?v=-e_CyneWOXA)
+## [PPT Link](https://docs.google.com/presentation/d/1JkBsimEo3Mk_mzVeYPWSOJvk5-YwYzW5xQv_EKEhrog/edit)
